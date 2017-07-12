@@ -12,12 +12,12 @@ One theme of this radar is that .NET Core is looking more like the clear future 
 
 ## Containers 
 
-Containers are a main focus at Microsoft now, not just with the new Windows Containers, but the container landscape from .NET Core being able to run in Linux containers, to any app in a container being run in Azure or AWS.  
+Containers are a main focus at Microsoft now, not just with the new Windows Containers, but the container landscape from .NET Core being able to run in Linux containers and be deployed anywhere along with traditionally Linux-only packages, to any app in a container being deployable in Azure. 
 
 
 ## Azure 
 
-Azure is another main focus, which we should continue to see fast growth and matching of AWS capabilities. Cosmos is an interesting addition in a flexible, horizontally scalable NoSQL data store. It has a lot of focus on containers too, with Docker for Azure and Azure Container Service that supports third-party orchestrators such as Kubernetes and Swarm. 
+Azure is another main focus, which we should continue to see fast growth and matching of AWS capabilities. Cosmos is an interesting addition in a flexible, horizontally scalable NoSQL data store. There is a lot of focus on containers here too, with Docker for Azure and Azure Container Service that supports third-party orchestrators such as Kubernetes and Swarm. 
 
 The future is quite shifting in the .NET world, which is very exciting since many of the changes seem to be going in the right direction. 
 
