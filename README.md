@@ -13,3 +13,5 @@ Azure is another main focus, which we should continue to see fast growth.
 ## [View the Radar](http://radar.labsincubator.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
 
 ![Excella](./Excella_Logo_Color.png =150x)
+
+<img src="drawing.jpg" alt="Drawing" style="width: 200px;"/>
