@@ -1,5 +1,7 @@
 # [.NET Tech Radar, Summer 2017](http://radar.labsincubator.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
 
+We have developed a Tech Radar for the .NET landscape, using knowledge gained through our experience, our thought leaders and advice from thought leaders in the community. We're passionate about .NET and have a lot of experience in it, and are excited about the vast changes that are taking place, so are trying to do our part to help make sense of it all. 
+
 The theme of this radar was that .NET Core is looking more like the clear future for Microsoft for general development, and the 2.0 release may be considered the real version 1.0.
 
 .NET Core in production should be a serious consideration, and a roadmap in how you'll get there should be in place or made soon, with small projects with .NET Core being tested. .NET Core development on MacOS or Linux is a perfectly reasonable possibility.
